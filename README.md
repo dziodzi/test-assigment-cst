@@ -6,6 +6,8 @@
 
 <img src="https://ie.wampi.ru/2022/09/23/IZOBRAZENIE_2022-09-23_122406181.png" alt="IZOBRAZENIE_2022-09-23_122406181.png" border="0">
 
++ LCS is a sequence of pseudorandom numbers obeying the law written above. According to the formula, it is possible to make a system of three equations for numbers from the condition.
+
 ## How it works?
 
 + Three pairwise differences of neighboring elements are made from a given sequence:
