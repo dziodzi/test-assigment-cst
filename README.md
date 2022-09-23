@@ -11,5 +11,6 @@
   + *These calculations allow you to remove the unknown variable "b" from expressions;*
 + There is expression: |t2\*t0 - t1\*t1| = *u_*, which, according to number theory, gives a number that is a multiple of the number "m";
 + Using the "fad" function, all the numbers that are divisors of the number *u_* are found, since these numbers are potential values for the number "m";
-+ We have an expression of the form: z = (a\*a\*x0) % u, where "u" is potential value of number "m"; For each potential value of the number "m", we are looking for such a number "z", which should be equal to x2;
-+ 
++ We have an expression of the form: z = (a\*a\*x0) % u, where "u" is potential value of number "m"; For each potential value of the number "m", we are looking for such a number "z", which should be equal to x2; If z = x2, then this is the potential value for the number "a";
++ Using the obtained values for "a" and "m", we will iterate over all possible values for the number "b", such that "b" < "m" (in order to iterate over the values of the residuals that the number "b" will give only once);
+  + The values for "b" will be checked by a cycle in a system of three equations made up of the definition of LCG, bysubstitution; 
