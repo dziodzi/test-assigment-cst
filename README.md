@@ -2,6 +2,10 @@
 
 ### This is my implementation of a program that finds the coefficients "a", "b" and "m" by four consecutive terms of a linear congruent sequence (x0, x1, x2, x3)
 
+## What is LCS?
+
+<img src="https://ie.wampi.ru/2022/09/23/IZOBRAZENIE_2022-09-23_122406181.png" alt="IZOBRAZENIE_2022-09-23_122406181.png" border="0">
+
 ## How it works?
 
 + Three pairwise differences of neighboring elements are made from a given sequence:
