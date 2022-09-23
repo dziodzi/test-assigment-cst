@@ -21,3 +21,7 @@
 + Using the obtained values for "a" and "m", we will iterate over all possible values for the number "b", such that "b" < "m" (in order to iterate over the values of the residuals that the number "b" will give only once);
   + The values for "b" will be checked by a cycle in a system of three equations made up of the definition of LCS, bysubstitution; 
 + If the potential values for "a", "b" and "m" satisfy the system of equations, then these values will be output to the console, as well as the next value of the sequence x4 given by the condition.
+
+## Example:
+
+<img src="https://ie.wampi.ru/2022/09/23/IZOBRAZENIE_2022-09-23_123012044.png" alt="IZOBRAZENIE_2022-09-23_123012044.png" border="0">
