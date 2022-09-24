@@ -6,7 +6,7 @@
 
 <img src="https://ie.wampi.ru/2022/09/23/IZOBRAZENIE_2022-09-23_122406181.png" alt="IZOBRAZENIE_2022-09-23_122406181.png" border="0">
 
---In these scheme, number "c" is our coefficient "b" :)
+- N.B.: In these scheme, number "c" is our coefficient "b" :)
 
 + LCS is a sequence of pseudorandom numbers obeying the law written above. According to the formula, it is possible to make a system of three equations for numbers from the condition.
 
