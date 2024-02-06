@@ -4,7 +4,7 @@
 
 ## What is LCS?
 
-<img src="https://ie.wampi.ru/2022/09/23/IZOBRAZENIE_2022-09-23_122406181.png" alt="IZOBRAZENIE_2022-09-23_122406181.png" border="0">
+![image](https://github.com/Dziodzi/linear-congruential-generator-cracker/assets/79766495/3170b199-5466-4fd5-9e67-1c0dea05f296)
 
 - N.B.: In these scheme, number "c" is our coefficient "b" :)
 
