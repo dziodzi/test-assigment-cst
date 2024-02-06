@@ -1,4 +1,4 @@
-# linear-congruential-generator-cracker
+# Linear Congruential Generator Cracker
 
 ### This is my implementation of a program that finds the coefficients "a", "b" and "m" by four consecutive terms of a linear congruent sequence (x1, x2, x3, x4) as CST conquest.
 
